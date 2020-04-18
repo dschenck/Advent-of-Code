@@ -1,0 +1,333 @@
+INFO:root:Found operation [3, 225] at position 0
+INFO:root:The input value (1) is written to position 225
+INFO:root:Found operation [1, 225, 6, 6] at position 2
+INFO:root:Operand A is the value 1 found at position 225 (P)
+INFO:root:Operand B is the value 1100 found at position 6 (P)
+INFO:root:A+B (1101) is written to position 6
+INFO:root:Found operation [1101, 1, 238, 225] at position 6
+INFO:root:Operand A is the value 1 found at position 7 (I)
+INFO:root:Operand B is the value 238 found at position 8 (I)
+INFO:root:A+B (239) is written to position 225
+INFO:root:Found operation [104, 0] at position 10
+WARNING:root:System outputs 0 (I)
+INFO:root:Found operation [1101, 90, 64, 225] at position 12
+INFO:root:Operand A is the value 90 found at position 13 (I)
+INFO:root:Operand B is the value 64 found at position 14 (I)
+INFO:root:A+B (154) is written to position 225
+INFO:root:Found operation [1101, 15, 56, 225] at position 16
+INFO:root:Operand A is the value 15 found at position 17 (I)
+INFO:root:Operand B is the value 56 found at position 18 (I)
+INFO:root:A+B (71) is written to position 225
+INFO:root:Found operation [1, 14, 153, 224] at position 20
+INFO:root:Operand A is the value 64 found at position 14 (P)
+INFO:root:Operand B is the value 83 found at position 153 (P)
+INFO:root:A+B (147) is written to position 224
+INFO:root:Found operation [101, -147, 224, 224] at position 24
+INFO:root:Operand A is the value -147 found at position 25 (I)
+INFO:root:Operand B is the value 147 found at position 224 (P)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 28
+WARNING:root:System outputs 0 found on position 29 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 30
+INFO:root:Operand A is the value 0 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 32 (I)
+INFO:root:AxB (0) is written to position 223
+INFO:root:Found operation [1001, 224, 3, 224] at position 34
+INFO:root:Operand A is the value 0 found at position 224 (P)
+INFO:root:Operand B is the value 3 found at position 36 (I)
+INFO:root:A+B (3) is written to position 224
+INFO:root:Found operation [1, 224, 223, 223] at position 38
+INFO:root:Operand A is the value 3 found at position 224 (P)
+INFO:root:Operand B is the value 0 found at position 223 (P)
+INFO:root:A+B (3) is written to position 223
+INFO:root:Found operation [2, 162, 188, 224] at position 42
+INFO:root:Operand A is the value 38 found at position 162 (P)
+INFO:root:Operand B is the value 53 found at position 188 (P)
+INFO:root:AxB (2014) is written to position 224
+INFO:root:Found operation [101, -2014, 224, 224] at position 46
+INFO:root:Operand A is the value -2014 found at position 47 (I)
+INFO:root:Operand B is the value 2014 found at position 224 (P)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 50
+WARNING:root:System outputs 0 found on position 51 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 52
+INFO:root:Operand A is the value 3 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 54 (I)
+INFO:root:AxB (24) is written to position 223
+INFO:root:Found operation [101, 6, 224, 224] at position 56
+INFO:root:Operand A is the value 6 found at position 57 (I)
+INFO:root:Operand B is the value 0 found at position 224 (P)
+INFO:root:A+B (6) is written to position 224
+INFO:root:Found operation [1, 223, 224, 223] at position 60
+INFO:root:Operand A is the value 24 found at position 223 (P)
+INFO:root:Operand B is the value 6 found at position 224 (P)
+INFO:root:A+B (30) is written to position 223
+INFO:root:Found operation [1001, 18, 81, 224] at position 64
+INFO:root:Operand A is the value 56 found at position 18 (P)
+INFO:root:Operand B is the value 81 found at position 66 (I)
+INFO:root:A+B (137) is written to position 224
+INFO:root:Found operation [1001, 224, -137, 224] at position 68
+INFO:root:Operand A is the value 137 found at position 224 (P)
+INFO:root:Operand B is the value -137 found at position 70 (I)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 72
+WARNING:root:System outputs 0 found on position 73 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 74
+INFO:root:Operand A is the value 30 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 76 (I)
+INFO:root:AxB (240) is written to position 223
+INFO:root:Found operation [1001, 224, 3, 224] at position 78
+INFO:root:Operand A is the value 0 found at position 224 (P)
+INFO:root:Operand B is the value 3 found at position 80 (I)
+INFO:root:A+B (3) is written to position 224
+INFO:root:Found operation [1, 223, 224, 223] at position 82
+INFO:root:Operand A is the value 240 found at position 223 (P)
+INFO:root:Operand B is the value 3 found at position 224 (P)
+INFO:root:A+B (243) is written to position 223
+INFO:root:Found operation [1102, 16, 16, 224] at position 86
+INFO:root:Operand A is the value 16 found at position 87 (I)
+INFO:root:Operand B is the value 16 found at position 88 (I)
+INFO:root:AxB (256) is written to position 224
+INFO:root:Found operation [101, -256, 224, 224] at position 90
+INFO:root:Operand A is the value -256 found at position 91 (I)
+INFO:root:Operand B is the value 256 found at position 224 (P)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 94
+WARNING:root:System outputs 0 found on position 95 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 96
+INFO:root:Operand A is the value 243 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 98 (I)
+INFO:root:AxB (1944) is written to position 223
+INFO:root:Found operation [1001, 224, 6, 224] at position 100
+INFO:root:Operand A is the value 0 found at position 224 (P)
+INFO:root:Operand B is the value 6 found at position 102 (I)
+INFO:root:A+B (6) is written to position 224
+INFO:root:Found operation [1, 223, 224, 223] at position 104
+INFO:root:Operand A is the value 1944 found at position 223 (P)
+INFO:root:Operand B is the value 6 found at position 224 (P)
+INFO:root:A+B (1950) is written to position 223
+INFO:root:Found operation [101, 48, 217, 224] at position 108
+INFO:root:Operand A is the value 48 found at position 109 (I)
+INFO:root:Operand B is the value 77 found at position 217 (P)
+INFO:root:A+B (125) is written to position 224
+INFO:root:Found operation [1001, 224, -125, 224] at position 112
+INFO:root:Operand A is the value 125 found at position 224 (P)
+INFO:root:Operand B is the value -125 found at position 114 (I)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 116
+WARNING:root:System outputs 0 found on position 117 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 118
+INFO:root:Operand A is the value 1950 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 120 (I)
+INFO:root:AxB (15600) is written to position 223
+INFO:root:Found operation [1001, 224, 3, 224] at position 122
+INFO:root:Operand A is the value 0 found at position 224 (P)
+INFO:root:Operand B is the value 3 found at position 124 (I)
+INFO:root:A+B (3) is written to position 224
+INFO:root:Found operation [1, 224, 223, 223] at position 126
+INFO:root:Operand A is the value 3 found at position 224 (P)
+INFO:root:Operand B is the value 15600 found at position 223 (P)
+INFO:root:A+B (15603) is written to position 223
+INFO:root:Found operation [1002, 158, 22, 224] at position 130
+INFO:root:Operand A is the value 70 found at position 158 (P)
+INFO:root:Operand B is the value 22 found at position 132 (I)
+INFO:root:AxB (1540) is written to position 224
+INFO:root:Found operation [1001, 224, -1540, 224] at position 134
+INFO:root:Operand A is the value 1540 found at position 224 (P)
+INFO:root:Operand B is the value -1540 found at position 136 (I)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 138
+WARNING:root:System outputs 0 found on position 139 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 140
+INFO:root:Operand A is the value 15603 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 142 (I)
+INFO:root:AxB (124824) is written to position 223
+INFO:root:Found operation [101, 2, 224, 224] at position 144
+INFO:root:Operand A is the value 2 found at position 145 (I)
+INFO:root:Operand B is the value 0 found at position 224 (P)
+INFO:root:A+B (2) is written to position 224
+INFO:root:Found operation [1, 223, 224, 223] at position 148
+INFO:root:Operand A is the value 124824 found at position 223 (P)
+INFO:root:Operand B is the value 2 found at position 224 (P)
+INFO:root:A+B (124826) is written to position 223
+INFO:root:Found operation [1101, 83, 31, 225] at position 152
+INFO:root:Operand A is the value 83 found at position 153 (I)
+INFO:root:Operand B is the value 31 found at position 154 (I)
+INFO:root:A+B (114) is written to position 225
+INFO:root:Found operation [1101, 56, 70, 225] at position 156
+INFO:root:Operand A is the value 56 found at position 157 (I)
+INFO:root:Operand B is the value 70 found at position 158 (I)
+INFO:root:A+B (126) is written to position 225
+INFO:root:Found operation [1101, 13, 38, 225] at position 160
+INFO:root:Operand A is the value 13 found at position 161 (I)
+INFO:root:Operand B is the value 38 found at position 162 (I)
+INFO:root:A+B (51) is written to position 225
+INFO:root:Found operation [102, 36, 192, 224] at position 164
+INFO:root:Operand A is the value 36 found at position 165 (I)
+INFO:root:Operand B is the value 92 found at position 192 (P)
+INFO:root:AxB (3312) is written to position 224
+INFO:root:Found operation [1001, 224, -3312, 224] at position 168
+INFO:root:Operand A is the value 3312 found at position 224 (P)
+INFO:root:Operand B is the value -3312 found at position 170 (I)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 172
+WARNING:root:System outputs 0 found on position 173 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 174
+INFO:root:Operand A is the value 124826 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 176 (I)
+INFO:root:AxB (998608) is written to position 223
+INFO:root:Found operation [1001, 224, 4, 224] at position 178
+INFO:root:Operand A is the value 0 found at position 224 (P)
+INFO:root:Operand B is the value 4 found at position 180 (I)
+INFO:root:A+B (4) is written to position 224
+INFO:root:Found operation [1, 224, 223, 223] at position 182
+INFO:root:Operand A is the value 4 found at position 224 (P)
+INFO:root:Operand B is the value 998608 found at position 223 (P)
+INFO:root:A+B (998612) is written to position 223
+INFO:root:Found operation [1102, 75, 53, 225] at position 186
+INFO:root:Operand A is the value 75 found at position 187 (I)
+INFO:root:Operand B is the value 53 found at position 188 (I)
+INFO:root:AxB (3975) is written to position 225
+INFO:root:Found operation [1101, 14, 92, 225] at position 190
+INFO:root:Operand A is the value 14 found at position 191 (I)
+INFO:root:Operand B is the value 92 found at position 192 (I)
+INFO:root:A+B (106) is written to position 225
+INFO:root:Found operation [1101, 7, 66, 224] at position 194
+INFO:root:Operand A is the value 7 found at position 195 (I)
+INFO:root:Operand B is the value 66 found at position 196 (I)
+INFO:root:A+B (73) is written to position 224
+INFO:root:Found operation [101, -73, 224, 224] at position 198
+INFO:root:Operand A is the value -73 found at position 199 (I)
+INFO:root:Operand B is the value 73 found at position 224 (P)
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 202
+WARNING:root:System outputs 0 found on position 203 (P)
+INFO:root:Found operation [102, 8, 223, 223] at position 204
+INFO:root:Operand A is the value 8 found at position 205 (I)
+INFO:root:Operand B is the value 998612 found at position 223 (P)
+INFO:root:AxB (7988896) is written to position 223
+INFO:root:Found operation [101, 3, 224, 224] at position 208
+INFO:root:Operand A is the value 3 found at position 209 (I)
+INFO:root:Operand B is the value 0 found at position 224 (P)
+INFO:root:A+B (3) is written to position 224
+INFO:root:Found operation [1, 224, 223, 223] at position 212
+INFO:root:Operand A is the value 3 found at position 224 (P)
+INFO:root:Operand B is the value 7988896 found at position 223 (P)
+INFO:root:A+B (7988899) is written to position 223
+INFO:root:Found operation [1101, 77, 60, 225] at position 216
+INFO:root:Operand A is the value 77 found at position 217 (I)
+INFO:root:Operand B is the value 60 found at position 218 (I)
+INFO:root:A+B (137) is written to position 225
+INFO:root:Found operation [4, 223] at position 220
+WARNING:root:System outputs 7988899 found on position 221 (P)
+INFO:root:Found operation [3, 225] at position 0
+INFO:root:The input value (1) is written to position 225
+INFO:root:A+B (1101) is written to position 6
+INFO:root:A+B (239) is written to position 225
+INFO:root:Found operation [104, 0] at position 10
+WARNING:root:System outputs 0 (I)
+INFO:root:A+B (154) is written to position 225
+INFO:root:A+B (71) is written to position 225
+INFO:root:A+B (147) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 28
+WARNING:root:System outputs 0 found on position 29 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 30
+INFO:root:Operand A is the value 0 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 32 (I)
+INFO:root:AxB (0) is written to position 223
+INFO:root:A+B (3) is written to position 224
+INFO:root:A+B (3) is written to position 223
+INFO:root:Found operation [2, 162, 188, 224] at position 42
+INFO:root:Operand A is the value 38 found at position 162 (P)
+INFO:root:Operand B is the value 53 found at position 188 (P)
+INFO:root:AxB (2014) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 50
+WARNING:root:System outputs 0 found on position 51 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 52
+INFO:root:Operand A is the value 3 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 54 (I)
+INFO:root:AxB (24) is written to position 223
+INFO:root:A+B (6) is written to position 224
+INFO:root:A+B (30) is written to position 223
+INFO:root:A+B (137) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 72
+WARNING:root:System outputs 0 found on position 73 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 74
+INFO:root:Operand A is the value 30 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 76 (I)
+INFO:root:AxB (240) is written to position 223
+INFO:root:A+B (3) is written to position 224
+INFO:root:A+B (243) is written to position 223
+INFO:root:Found operation [1102, 16, 16, 224] at position 86
+INFO:root:Operand A is the value 16 found at position 87 (I)
+INFO:root:Operand B is the value 16 found at position 88 (I)
+INFO:root:AxB (256) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 94
+WARNING:root:System outputs 0 found on position 95 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 96
+INFO:root:Operand A is the value 243 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 98 (I)
+INFO:root:AxB (1944) is written to position 223
+INFO:root:A+B (6) is written to position 224
+INFO:root:A+B (1950) is written to position 223
+INFO:root:A+B (125) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 116
+WARNING:root:System outputs 0 found on position 117 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 118
+INFO:root:Operand A is the value 1950 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 120 (I)
+INFO:root:AxB (15600) is written to position 223
+INFO:root:A+B (3) is written to position 224
+INFO:root:A+B (15603) is written to position 223
+INFO:root:Found operation [1002, 158, 22, 224] at position 130
+INFO:root:Operand A is the value 70 found at position 158 (P)
+INFO:root:Operand B is the value 22 found at position 132 (I)
+INFO:root:AxB (1540) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 138
+WARNING:root:System outputs 0 found on position 139 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 140
+INFO:root:Operand A is the value 15603 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 142 (I)
+INFO:root:AxB (124824) is written to position 223
+INFO:root:A+B (2) is written to position 224
+INFO:root:A+B (124826) is written to position 223
+INFO:root:A+B (114) is written to position 225
+INFO:root:A+B (126) is written to position 225
+INFO:root:A+B (51) is written to position 225
+INFO:root:Found operation [102, 36, 192, 224] at position 164
+INFO:root:Operand A is the value 36 found at position 165 (I)
+INFO:root:Operand B is the value 92 found at position 192 (P)
+INFO:root:AxB (3312) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 172
+WARNING:root:System outputs 0 found on position 173 (P)
+INFO:root:Found operation [1002, 223, 8, 223] at position 174
+INFO:root:Operand A is the value 124826 found at position 223 (P)
+INFO:root:Operand B is the value 8 found at position 176 (I)
+INFO:root:AxB (998608) is written to position 223
+INFO:root:A+B (4) is written to position 224
+INFO:root:A+B (998612) is written to position 223
+INFO:root:Found operation [1102, 75, 53, 225] at position 186
+INFO:root:Operand A is the value 75 found at position 187 (I)
+INFO:root:Operand B is the value 53 found at position 188 (I)
+INFO:root:AxB (3975) is written to position 225
+INFO:root:A+B (106) is written to position 225
+INFO:root:A+B (73) is written to position 224
+INFO:root:A+B (0) is written to position 224
+INFO:root:Found operation [4, 224] at position 202
+WARNING:root:System outputs 0 found on position 203 (P)
+INFO:root:Found operation [102, 8, 223, 223] at position 204
+INFO:root:Operand A is the value 8 found at position 205 (I)
+INFO:root:Operand B is the value 998612 found at position 223 (P)
+INFO:root:AxB (7988896) is written to position 223
+INFO:root:A+B (3) is written to position 224
+INFO:root:A+B (7988899) is written to position 223
+INFO:root:A+B (137) is written to position 225
+INFO:root:Found operation [4, 223] at position 220
+WARNING:root:System outputs 7988899 found on position 221 (P)
