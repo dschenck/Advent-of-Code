@@ -7,3 +7,4 @@
 |[Day 2: Rock Paper Scissors](https://adventofcode.com/2022/day/2)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2002/Solution.ipynb)|
 |[Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2003/Solution.ipynb)|
 |[Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2004/Solution.ipynb)|
+|[Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2005/Solution.ipynb)|
