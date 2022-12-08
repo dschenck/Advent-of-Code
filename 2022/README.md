@@ -10,3 +10,4 @@
 |[Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2005/Solution.ipynb)|
 |[Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2006/Solution.ipynb)|
 |[Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2007/Solution.ipynb)|
+|[Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2008/Solution.ipynb)|
