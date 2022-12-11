@@ -12,4 +12,5 @@
 |[Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2007/Solution.ipynb)|
 |[Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2008/Solution.ipynb)|
 |[Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2009/Solution.ipynb)|
-|[Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/9)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2010/Solution.ipynb)|
+|[Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2010/Solution.ipynb)|
+|[Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)|[Solution](https://github.com/dschenck/Advent-of-Code/blob/master/2022/Day%2011/Solution.ipynb)|
